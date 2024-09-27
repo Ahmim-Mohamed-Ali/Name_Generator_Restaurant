@@ -1,0 +1,11 @@
+
+### Contenu du fichier `.gitignore`
+
+# Ignorer le fichier contenant la clé API
+secret_key.py
+
+# Ignorer les fichiers de l'environnement virtuel
+.venv/
+venv/
+*.pyc
+__pycache__/
